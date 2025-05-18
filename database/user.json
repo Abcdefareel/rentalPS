@@ -1,20 +1,23 @@
 [
     {
         "id": 1,
-        "username": "kopeng",
-        "email": "kopeng@gmail.com",
-        "password": "123"
+        "photo": "file-upload\/1.png",
+        "username": "yy",
+        "email": "yy@gmail.com",
+        "password": "yyy"
+    },
+    {
+        "id": 2,
+        "photo": "file-upload\/2.jpg",
+        "username": "farrel",
+        "email": "farrelrizna11@gmail.com",
+        "password": "fff"
     },
     {
         "id": 3,
-        "username": "chandra",
-        "email": "chandra@gmail.com",
-        "password": "333"
-    },
-    {
-        "id": 5,
-        "username": "farrel",
-        "email": "farrel@gmail.com",
-        "password": "000"
+        "photo": "file-upload\/3.jpg",
+        "username": "hh",
+        "email": "hh@gmail.com",
+        "password": "hhh"
     }
 ]
